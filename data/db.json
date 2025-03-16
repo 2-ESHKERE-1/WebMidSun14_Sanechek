@@ -1,0 +1,85 @@
+{
+
+"users":[
+    {
+        "id": 1,
+        "name": "Fedor",
+        "surname": "Genius",
+        "photo": "",
+        "balance": 11
+    },
+
+    {
+        "id": 2,
+        "name": "Alexsey",
+        "surname": "Magamedow",
+        "photo": "",
+        "balance": 21500
+    },
+
+    {
+        "id": 3,
+        "name": "Jonson",
+        "surname": "Lik",
+        "photo": "",
+        "balance": 501200
+    },
+
+    {
+        "id": 4,
+        "name": "Ivan",
+        "surname": "Vasileuski",
+        "photo": "",
+        "balance": 100
+    },
+
+    {
+        "id": 5,
+        "name": "Petr",
+        "surname": "Robot",
+        "photo": "",
+        "balance": 5500
+    },
+
+    {
+        "id": 6,
+        "name": "Rob",
+        "surname": "Programovich",
+        "photo": "",
+        "balance": 8500
+    },
+
+    {
+        "id": 7,
+        "name": "Robert",
+        "surname": "Gramirov",
+        "photo": "",
+        "balance": 7823
+    },
+
+    {
+        "id": 8,
+        "name": "Tecb",
+        "surname": "Pro",
+        "photo": "",
+        "balance": 1908
+    },
+
+    {
+        "id": 9,
+        "name": "Rob",
+        "surname": "Programovich",
+        "photo": "",
+        "balance": 963
+    },
+
+    {
+        "id": 10,
+        "name": "Kiril",
+        "surname": "Vseslavovich",
+        "photo": "",
+        "balance": 6450
+    }
+]
+
+}
