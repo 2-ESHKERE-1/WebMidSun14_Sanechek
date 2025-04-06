@@ -89,7 +89,8 @@
             "name": "omiak",
             "price": 0,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 1
         },
     
         {
@@ -97,7 +98,8 @@
             "name": "med spirt",
             "price": 0,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 2
         },
     
         {
@@ -105,7 +107,8 @@
             "name": "egg",
             "price": 109,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 3
         },
     
         {
@@ -113,7 +116,8 @@
             "name": "milk",
             "price": 2,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 4
         },
     
         {
@@ -121,7 +125,8 @@
             "name": "meat",
             "price": 10,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 5
         },
     
         {
@@ -129,7 +134,8 @@
             "name": "bread",
             "price": 17,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 6
         },
     
         {
@@ -137,7 +143,8 @@
             "name": "chicken meat",
             "price": 10,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 7
         },
     
         {
@@ -145,7 +152,8 @@
             "name": "pig meat",
             "price": 12,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 8
         },
     
         {
@@ -153,7 +161,8 @@
             "name": "cow meat",
             "price": 18,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 9
         },
     
         {
@@ -161,7 +170,8 @@
             "name": "bananas",
             "price": 8,
             "photo": "",
-            "desk": "tasty"
+            "desk": "tasty",
+            "autor_id": 10
         }
     
     ]
