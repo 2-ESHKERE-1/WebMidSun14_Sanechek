@@ -5,7 +5,7 @@
             "id": 1,
             "name": "Fedor",
             "surname": "Genius",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/fedor.jpg?raw=true",
             "balance": 1
         },
     
@@ -13,7 +13,7 @@
             "id": 2,
             "name": "Alexsey",
             "surname": "Magamedow",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/alexsey.jpg?raw=true",
             "balance": 21500
         },
     
@@ -21,7 +21,7 @@
             "id": 3,
             "name": "Jonson",
             "surname": "Lik",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/jonson.png?raw=true",
             "balance": 501200
         },
     
@@ -29,7 +29,7 @@
             "id": 4,
             "name": "Ivan",
             "surname": "Vasileuski",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Ivan.jpg?raw=true",
             "balance": 100
         },
     
@@ -37,7 +37,7 @@
             "id": 5,
             "name": "Petr",
             "surname": "Robot",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Petr.jpg?raw=true",
             "balance": 5500
         },
     
@@ -45,7 +45,7 @@
             "id": 6,
             "name": "Rob",
             "surname": "Programovich",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Programovich.jpg?raw=true",
             "balance": 8500
         },
     
@@ -53,7 +53,7 @@
             "id": 7,
             "name": "Robert",
             "surname": "Gramirov",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Rob.jpg?raw=true",
             "balance": 7823
         },
     
@@ -61,7 +61,7 @@
             "id": 8,
             "name": "Tecb",
             "surname": "Pro",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Programovich.jpg?raw=true",
             "balance": 1908
         },
     
@@ -69,7 +69,7 @@
             "id": 9,
             "name": "Rob",
             "surname": "Programovich",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Programovich.jpg?raw=true",
             "balance": 963
         },
     
@@ -77,7 +77,7 @@
             "id": 10,
             "name": "Kiril",
             "surname": "Vseslavovich",
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/Kiril.jpg?raw=true",
             "balance": 6450
         }
     ],
@@ -88,7 +88,7 @@
             "id": 1,
             "name": "omiak",
             "price": 0,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/ammiak-100ml.jpg?raw=true",
             "desc": "tasty",
             "author_id": 1
         },
@@ -97,7 +97,7 @@
             "id": 2,
             "name": "med spirt",
             "price": 0,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/spirtetilovyjmed7050ml.png?raw=true",
             "desc": "tasty",
             "author_id": 2
         },
@@ -106,7 +106,7 @@
             "id": 3,
             "name": "egg",
             "price": 109,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/images.jpg?raw=true",
             "desc": "tasty",
             "author_id": 3
         },
@@ -115,7 +115,7 @@
             "id": 4,
             "name": "milk",
             "price": 2,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/00997107.n_1.png?raw=true",
             "desc": "tasty",
             "author_id": 4
         },
@@ -124,7 +124,7 @@
             "id": 5,
             "name": "meat",
             "price": 10,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/p_O%20(1).jpg?raw=true",
             "desc": "tasty",
             "author_id": 5
         },
@@ -133,7 +133,7 @@
             "id": 6,
             "name": "bread",
             "price": 17,
-            "photo": "",
+            "photo": "https://breadtopia.com/wp-content/uploads/2023/01/20230104_131203-x-Copy-1024x569.jpg",
             "desc": "tasty",
             "author_id": 6
         },
@@ -142,7 +142,7 @@
             "id": 7,
             "name": "chicken meat",
             "price": 10,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/images%20(1).jpg?raw=true",
             "desc": "tasty",
             "author_id": 7
         },
@@ -151,7 +151,7 @@
             "id": 8,
             "name": "pig meat",
             "price": 12,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/p_O%20(1).jpg?raw=true",
             "desc": "tasty",
             "author_id": 8
         },
@@ -160,7 +160,7 @@
             "id": 9,
             "name": "cow meat",
             "price": 18,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/goviadina.jpg?raw=true",
             "desc": "tasty",
             "author_id": 9
         },
@@ -169,7 +169,7 @@
             "id": 10,
             "name": "bananas",
             "price": 8,
-            "photo": "",
+            "photo": "https://github.com/2-ESHKERE-1/Marketplace_sanechek/blob/main/img/f07ee7a2-1615-400a-8211-3be099798c0e.png?raw=true",
             "desc": "tasty",
             "author_id": 10
         }
